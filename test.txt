@@ -2,4 +2,8 @@ hello
 this change in  branch2
 
 I change this in main branch
+<<<<<<< HEAD
 this is in local mas branch
+=======
+I again change this line in main branch
+>>>>>>> main
